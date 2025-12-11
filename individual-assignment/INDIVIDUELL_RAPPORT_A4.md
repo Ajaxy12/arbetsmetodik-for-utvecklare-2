@@ -25,7 +25,7 @@ Scrum är ett ramverk med roller (Product Owner, Scrum Master, Developers), even
 Kanban är en visuell metod för att hantera arbetsflöden. Vi använde en Kanban board i markdown-format (istället för Trello) med kolumner: Product Backlog, Sprint Backlog, Doing, Test, Done. Detta gav oss översikt och hjälpte identifiera flaskhalsar.
 
 ### User Stories och Personas
-Vi skapade 23 user stories kopplade till tre personas (Emma Andersson - student, Marcus Johansson - IT-konsult, Lisa Bergström - pensionär). Detta hjälpte oss att fokusera på användarens behov istället för tekniska detaljer.
+Vi skapade 23 user stories kopplade till tre personas som alla använder samma plattform FootyShop (fotbollströjebutik): Oliver Ström - butiksägare, Sara Lindgren - administratör, Johan Edberg - kund. Detta hjälpte oss att fokusera på användarens behov istället för tekniska detaljer.
 
 ---
 
