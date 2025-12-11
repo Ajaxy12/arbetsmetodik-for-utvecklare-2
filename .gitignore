@@ -1,0 +1,98 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+history/
+.history/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.local
+.env.production
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build files
+dist/
+build/
+
+# Backup files
+*.bak
+*.backup
+
+# Project-specific: Exclude full versions and local files
+# Full versions (keep only A4 versions on GitHub)
+group-project/PERSONAS.md
+group-project/USER_STORIES.md
+group-project/KANBAN_BOARD.md
+group-project/SPRINT_PLANNING.md
+group-project/GRUPPRAPPORT.md
+individual-assignment/INDIVIDUELL_RAPPORT.md
+
+# Detailed reports (keep local only)
+group-project/RAPPORT_*.md
+
+# Local files (not for GitHub)
+ASSIGNMENT_TODO.md
+FILER_FOR_GITHUB.md
+INLAMNING_OVERBLICK.md
+MASTER_INDEX.md
+PUSH_TO_GITHUB.md
+
+# PDF files (course materials)
+*.pdf
+
+# Video files
+*.mp4
+
+# Python scripts (tools)
+*.py
+
+# Converted markdown files
+pdf_to_markdown/
+
