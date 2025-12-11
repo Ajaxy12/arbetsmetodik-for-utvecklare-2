@@ -177,6 +177,94 @@ group-project/
 
 ---
 
+## 📄 Page Structure & Organization
+
+### Total Pages Required: **7 Pages**
+
+1. **Startsida (Homepage)** - Publik sida
+2. **Shop-sida (Shop Page)** - Publik sida
+3. **Produktdetaljsida (Product Detail Page)** - Publik sida
+4. **Varukorgssida (Shopping Cart Page)** - Publik sida (kräver produkter i varukorg)
+5. **Checkout-sida (Checkout Page)** - Publik sida (kräver produkter i varukorg)
+6. **Admin-sida (Admin Page)** - Skyddad sida (för Sara - Admin)
+7. **Butiksägarens sida (Store Owner Dashboard)** - Skyddad sida (för Oliver - Butiksägare)
+
+### Navigation Structure
+
+#### Desktop Navigation (Header Menu)
+```
+[Logo] [Startsida] [Shop] [Varukorg (ikon + antal)] [Logga in]
+```
+
+#### Mobile Navigation (Hamburger Menu)
+```
+[☰] [Varukorg (ikon)] [Logga in]
+```
+**Hamburger meny innehåller:**
+- Startsida
+- Shop
+- Varukorg
+- Logga in / Min profil
+- Admin (endast för Sara)
+- Dashboard (endast för Oliver)
+
+### Page Organization by User Role
+
+#### Publika sidor (Alla användare - Johan, Sara, Oliver):
+- **Startsida:** Välkomsttext, bild, inloggning, tre utvalda produkter
+- **Shop-sida:** Kategorier, sökning, produktlista
+- **Produktdetaljsida:** Produktinformation, bild, pris, "Lägg i varukorg"
+- **Varukorgssida:** Lista med produkter, ändra antal, ta bort, totalpris
+- **Checkout-sida:** Formulär, fraktalternativ, betalningsmetod, pris inkl. moms
+
+#### Skyddade sidor (Rollbaserad åtkomst):
+- **Admin-sida (Sara):** Lägga till/redigera produkter
+- **Butiksägarens sida (Oliver):** Försäljningsstatistik, lagersaldo, varningar
+
+### Modals & Overlays
+
+**Modals som kan behövas:**
+- **Inloggningsmodal:** Kan användas istället för inloggningsruta på startsidan (valfritt)
+- **Produktdetaljmodal:** Alternativ till separat produktdetaljsida (valfritt - kan användas för snabb visning)
+- **Bekräftelsemodal:** "Produkt tillagd i varukorg" (valfritt men rekommenderat)
+
+### Mobile Responsive Design
+
+**Alla sidor ska vara responsiva och fungera på:**
+- **Desktop:** Full navigation menu, större layout
+- **Tablet:** Anpassad navigation, mellanstor layout
+- **Mobile:** Hamburger menu, kompakt layout
+
+**Mobile-specifika överväganden:**
+- Hamburger menu (☰) för huvudnavigation
+- Touch-vänliga knappar (minst 44x44px)
+- Stora, läsbara texter
+- Enkel scrollning
+- Varukorgsikon alltid synlig i header
+
+### Page Flow & User Journey
+
+```
+Startsida
+  ↓
+Shop-sida (via navigation eller direkt)
+  ↓
+Produktdetaljsida (via klick på produkt)
+  ↓
+Varukorgssida (via "Lägg i varukorg" eller varukorgsikon)
+  ↓
+Checkout-sida (via "Gå till checkout")
+  ↓
+Bekräftelse (mockup - ingen faktisk betalning)
+```
+
+**Alternativa flöden:**
+- Direkt från Shop → Varukorg (om produkter redan i varukorg)
+- Admin → Admin-sida (för Sara)
+- Butiksägare → Dashboard (för Oliver)
+
+---
+
 ## 🏃 Sprint Schedule
 
 | Sprint | Duration | Dates | Focus |
