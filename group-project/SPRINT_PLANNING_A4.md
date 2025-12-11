@@ -127,5 +127,5 @@ Vi planerar fyra sprints enligt Scrum-metodiken. Varje sprint har ett tydligt m�
 
 ---
 
-*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11*
+*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11 (Uppdaterad)*
 

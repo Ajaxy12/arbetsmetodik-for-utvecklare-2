@@ -128,5 +128,5 @@ Denna fil sammanfattar noteringar från sprint retrospectives. Varje sprint avsl
 
 ---
 
-*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11*
+*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11 (Uppdaterad)*
 
