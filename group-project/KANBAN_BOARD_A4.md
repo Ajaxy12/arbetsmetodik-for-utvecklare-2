@@ -10,6 +10,19 @@
 
 Vi använder en Kanban board i markdown-format (istället för Trello) för att visualisera arbetsflödet och spåra framsteg. Boarden är versionerad i Git tillsammans med resten av projektet.
 
+## 📄 Sidstruktur
+
+**Totalt antal sidor: 7 sidor**
+1. Startsida (US-01, US-02, US-03)
+2. Shop-sida (US-04, US-05, US-06)
+3. Produktdetaljsida (US-07)
+4. Varukorgssida (US-09, US-10, US-11, US-12)
+5. Checkout-sida (US-13, US-14, US-15, US-16, US-17)
+6. Admin-sida (US-18, US-19) - Skyddad (Sara)
+7. Butiksägarens sida (US-20, US-21, US-22, US-23) - Skyddad (Oliver)
+
+**Navigation:** Desktop header menu | Mobile hamburger menu (☰)
+
 ---
 
 ## 🎯 Kanban Board Struktur
@@ -54,14 +67,16 @@ Vi använder en Kanban board i markdown-format (istället för Trello) för att 
 
 **Sprint 1:** Förberedelse (Tis 9/12 - Tor 11/12)
 
-*User stories väljs under sprintplanering*
+**Sprintmål:** Etablera projektgrunden med personas, user stories och börja designa startsidan och shop-sidan.
 
-**Varför är Sprint Backlog tom?**
-- Projektet har inte startat ännu - vi är fortfarande i förberedelsfasen
-- Sprintplanering kommer att genomföras när Sprint 1 faktiskt startar
-- Under sprintplaneringen väljer vi vilka user stories som ska ingå i Sprint 1
-- User stories flyttas då från Product Backlog till Sprint Backlog
-- Denna board kommer att uppdateras kontinuerligt när arbetet påbörjas
+### Valda User Stories för Sprint 1 (5 user stories):
+- **US-01:** Startsida - Välkomsttext och bild (Johan)
+- **US-02:** Startsida - Inloggningsruta (Johan)
+- **US-03:** Startsida - Tre utvalda produkter (Johan)
+- **US-04:** Shop-sida - Navigation (Alla personas)
+- **US-05:** Shop-sida - Kategorier (Johan)
+
+**Status:** User stories är valda och redo för Sprint 1. Tasks definierade för varje user story.
 
 ---
 
@@ -104,24 +119,19 @@ Vi använder en Kanban board i markdown-format (istället för Trello) för att 
 
 ## 📊 Sprint Statistics
 
-| Metric | Value |
-|--------|-------|
-| Total User Stories | 23 |
-| Personas | 3 |
-| Current Sprint | 1 |
-| Stories in Sprint Backlog | 0 |
-| Stories in Doing | 0 |
-| Stories in Test | 0 |
-| Stories in Done | 0 |
+| Sprint | Start | Slut | Planerade | Slutförda |
+|--------|-------|------|-----------|-----------|
+| Sprint 1 | Tis 9/12 | Tor 11/12 | 5 | 0 |
+| Sprint 2 | Tor 11/12 | Tis 16/12 | 7 | 0 |
+| Sprint 3 | Tis 16/12 | Tor 18/12 | 5 | 0 |
+| Sprint 4 | Tor 18/12 | Sön 28/12 | 6 | 0 |
 
-**Varför är alla värden 0 (förutom Total User Stories)?**
-- Projektet är i förberedelsfasen - vi har planerat och dokumenterat men inte börjat arbeta ännu
-- **Total User Stories: 23** - Alla user stories är skapade och dokumenterade
-- **Stories in Sprint Backlog: 0** - Sprintplanering har inte genomförts ännu
-- **Stories in Doing: 0** - Inget arbete har påbörjats
-- **Stories in Test: 0** - Inga user stories är klara för testning
-- **Stories in Done: 0** - Inga user stories är slutförda
-- **När projektet startar** kommer dessa värden att uppdateras kontinuerligt när user stories flyttas genom Kanban board-kolumnerna
+**Status:**
+- **Sprint 1:** 5 user stories planerade (US-01 till US-05) - Startsida och Shop-navigation
+- **Sprint 2:** 7 user stories planerade (US-06 till US-12) - Shop-funktionalitet och Varukorg
+- **Sprint 3:** 5 user stories planerade (US-13 till US-17) - Checkout-processen
+- **Sprint 4:** 6 user stories planerade (US-18 till US-23) - Admin och Försäljningsstatistik
+- **Totalt:** 23 user stories fördelade över 4 sprints
 
 ---
 
