@@ -116,7 +116,7 @@ group-project/
 - [ ] Create 3 personas
 - [ ] Write ~20 user stories
 - [ ] Build webshop mockup with all required functionality
-- [ ] Follow agile process (4 sprints)
+- [ ] Follow agile process (2 sprints)
 - [ ] Use Git for version control
 - [ ] Document sprint retrospectives
 
@@ -269,19 +269,17 @@ Bekräftelse (mockup - ingen faktisk betalning)
 
 | Sprint | Duration | Dates | Focus |
 |--------|----------|-------|-------|
-| Sprint 1 | 3-4 days | Tue 9/12 - Thu 11/12 | Preparation |
-| Sprint 2 | 5 days | Thu 11/12 - Tue 16/12 | Development |
-| Sprint 3 | 2 days | Tue 16/12 - Thu 18/12 | Final Development |
-| Sprint 4 | 10 days | Thu 18/12 - Sun 28/12 | Finalization |
+| Sprint 1 | 5 days | Thu 11/12 - Tue 16/12 | Development |
+| Sprint 2 | 12 days | Tue 16/12 - Sun 28/12 | Final Development |
 
 ---
 
 ## 📅 Important Dates
 
-- **Tue 9/12 9:00-16:00** - Lesson 1 (Sprint 1 starts)
-- **Thu 11/12 9:00-12:00** - Lesson 2 (Sprint 1 review)
-- **Tue 16/12 9:00-16:00** - Lesson 3 (Sprint 2 review)
-- **Thu 18/12 9:00-16:00** - Lesson 4 (Sprint 3 review in morning)
+- **Tue 9/12 9:00-16:00** - Lesson 1 (Förberedelser)
+- **Thu 11/12 9:00-12:00** - Lesson 2 (Sprint 1 startar)
+- **Tue 16/12 9:00-16:00** - Lesson 3 (Sprint 1 review, Sprint 2 startar)
+- **Thu 18/12 9:00-16:00** - Lesson 4 (Sprint 2 pågår)
 - **Tue 23/12** - Recommended completion date
 - **Sun 28/12** - Final deadline
 
@@ -338,5 +336,5 @@ Bekräftelse (mockup - ingen faktisk betalning)
 
 ---
 
-*Last updated: [Date]*
+*Last updated: 2025-12-12 (Sprint-schema korrigerat till 2 sprints)*
 

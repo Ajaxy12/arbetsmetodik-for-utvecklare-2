@@ -15,7 +15,7 @@ Denna fil sammanfattar noteringar från sprint retrospectives. Varje sprint avsl
 ## 🔄 Sprint 1 Retrospective
 
 **Datum:** [Fylls i efter Sprint 1]  
-**Sprint:** Förberedelse
+**Sprint:** Utveckling (Tor 11/12 - Tis 16/12)
 
 ### Vad fungerade bra?
 *[Fylls i efter Sprint 1]*
@@ -37,7 +37,7 @@ Denna fil sammanfattar noteringar från sprint retrospectives. Varje sprint avsl
 ## 🔄 Sprint 2 Retrospective
 
 **Datum:** [Fylls i efter Sprint 2]  
-**Sprint:** Utveckling
+**Sprint:** Slututveckling (Tis 16/12 - Sön 28/12)
 
 ### Vad fungerade bra?
 *[Fylls i efter Sprint 2]*
@@ -50,53 +50,9 @@ Denna fil sammanfattar noteringar från sprint retrospectives. Varje sprint avsl
 
 ### Vad borde vi börja göra?
 *[Fylls i efter Sprint 2]*
-
-### Förbättringsåtgärder för nästa sprint:
-*[Fylls i efter Sprint 2]*
-
----
-
-## 🔄 Sprint 3 Retrospective
-
-**Datum:** [Fylls i efter Sprint 3]  
-**Sprint:** Slututveckling
-
-### Vad fungerade bra?
-*[Fylls i efter Sprint 3]*
-
-### Vad fungerade mindre bra?
-*[Fylls i efter Sprint 3]*
-
-### Vad borde vi sluta göra?
-*[Fylls i efter Sprint 3]*
-
-### Vad borde vi börja göra?
-*[Fylls i efter Sprint 3]*
-
-### Förbättringsåtgärder för nästa sprint:
-*[Fylls i efter Sprint 3]*
-
----
-
-## 🔄 Sprint 4 Retrospective
-
-**Datum:** [Fylls i efter Sprint 4]  
-**Sprint:** Finalisering
-
-### Vad fungerade bra?
-*[Fylls i efter Sprint 4]*
-
-### Vad fungerade mindre bra?
-*[Fylls i efter Sprint 4]*
-
-### Vad borde vi sluta göra?
-*[Fylls i efter Sprint 4]*
-
-### Vad borde vi börja göra?
-*[Fylls i efter Sprint 4]*
 
 ### Förbättringsåtgärder för framtida projekt:
-*[Fylls i efter Sprint 4]*
+*[Fylls i efter Sprint 2]*
 
 ---
 
@@ -128,5 +84,5 @@ Denna fil sammanfattar noteringar från sprint retrospectives. Varje sprint avsl
 
 ---
 
-*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11 (Uppdaterad)*
+*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-12 (Uppdaterad - Sprint-schema korrigerat till 2 sprints)*
 

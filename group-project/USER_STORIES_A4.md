@@ -108,9 +108,7 @@ User stories prioriteras baserat på:
 
 **Sprint-fördelning (planerat):**
 - **Sprint 1:** US-01 till US-05 (Startsida och Shop-navigation)
-- **Sprint 2:** US-06 till US-12 (Shop-funktionalitet och Varukorg)
-- **Sprint 3:** US-13 till US-17 (Checkout)
-- **Sprint 4:** US-18 till US-23 (Admin och Statistik)
+- **Sprint 2:** US-06 till US-23 (Shop-funktionalitet, Varukorg, Checkout, Admin och Statistik)
 
 **Kategorier valda:**
 1. Premier League (5 produkter)
@@ -124,4 +122,4 @@ User stories prioriteras baserat på:
 
 ---
 
-*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11 (Uppdaterad)*
+*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-12 (Uppdaterad - Sprint-fördelning korrigerad till 2 sprints)*

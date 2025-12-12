@@ -65,7 +65,7 @@ Vi använder en Kanban board i markdown-format (istället för Trello) för att 
 
 ## 🏃 Sprint Backlog (Aktuell Sprint)
 
-**Sprint 1:** Förberedelse (Tis 9/12 - Tor 11/12)
+**Sprint 1:** Utveckling (Tor 11/12 - Tis 16/12)
 
 **Sprintmål:** Etablera projektgrunden med personas, user stories och börja designa startsidan och shop-sidan.
 
@@ -121,17 +121,13 @@ Vi använder en Kanban board i markdown-format (istället för Trello) för att 
 
 | Sprint | Start | Slut | Planerade | Slutförda |
 |--------|-------|------|-----------|-----------|
-| Sprint 1 | Tis 9/12 | Tor 11/12 | 5 | 0 |
-| Sprint 2 | Tor 11/12 | Tis 16/12 | 7 | 0 |
-| Sprint 3 | Tis 16/12 | Tor 18/12 | 5 | 0 |
-| Sprint 4 | Tor 18/12 | Sön 28/12 | 6 | 0 |
+| Sprint 1 | Tor 11/12 | Tis 16/12 | 5 | 0 |
+| Sprint 2 | Tis 16/12 | Sön 28/12 | 18 | 0 |
 
 **Status:**
 - **Sprint 1:** 5 user stories planerade (US-01 till US-05) - Startsida och Shop-navigation
-- **Sprint 2:** 7 user stories planerade (US-06 till US-12) - Shop-funktionalitet och Varukorg
-- **Sprint 3:** 5 user stories planerade (US-13 till US-17) - Checkout-processen
-- **Sprint 4:** 6 user stories planerade (US-18 till US-23) - Admin och Försäljningsstatistik
-- **Totalt:** 23 user stories fördelade över 4 sprints
+- **Sprint 2:** 18 user stories planerade (US-06 till US-23) - Shop-funktionalitet, Varukorg, Checkout, Admin och Försäljningsstatistik
+- **Totalt:** 23 user stories fördelade över 2 sprints
 
 ---
 
@@ -161,5 +157,5 @@ Kanban board används:
 
 ---
 
-*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-11 (Uppdaterad)*
+*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-12 (Uppdaterad - Sprint-schema korrigerat till 2 sprints)*
 
